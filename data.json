@@ -1,0 +1,18 @@
+{
+	"result" : [
+		{
+			"Id" : 1,
+			"Name" : "Room One",
+			"Capacity" : 12,
+			"Location" : "First Floor",
+			"Last_Clean_Up_Date" : "2018-01-01"
+        },
+        {
+            "Id" : 2,
+			"Name" : "Room two",
+			"Capacity" : 12,
+			"Location" : "Second Floor",
+			"Last_Clean_Up_Date" : "2018-01-01"
+        }
+	]
+}
